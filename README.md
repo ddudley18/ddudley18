@@ -1,5 +1,11 @@
 <!--- A little bit about me --->
-- 👋 Hi, I’m Dakota Dudley!
-- 👀 I’m interested in agile fullstack developer roles.
-- 🌱 I’m currently focused on learning ML and data analysis & visualization!
-- 📫 How to reach me --> dakotadudley13@gatech.edu
+
+# 👋 Howdy!
+## I'm a junior at Georgia Tech.
+### A little more about me? Thought you'd never ask 🥺
+
+- 🔨 I'm currently working as a SWE Intern at The Home Depot
+- 🔭 I’m also currently...
+    - Updating my extremely outdated personal <a href="https://dakdudley.com" target="_blank">website</a>
+    - Using Machine Learning to identify bird calls for <a href="https://www.kaggle.com/competitions/birdclef-2022" target="_blank">BirdCLEF</a>
+- 😄 Feel free to checkout my favorite (pinned) projects and other repositories; if you find abosolutely anything interesting feel free to reach out to me on LinkedIn; I'd love to collaborate and chat about it.
