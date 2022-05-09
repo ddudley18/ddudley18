@@ -1,7 +1,7 @@
 <!--- A little bit about me --->
 
 # 👋 Howdy!
-## I'm a junior at Georgia Tech.
+## I'm a Junior at Georgia Tech.
 ### A little more about me? Thought you'd never ask 🥺
 
 - 🔨 I'm currently working as a SWE Intern at The Home Depot
