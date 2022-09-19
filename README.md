@@ -6,7 +6,7 @@
 
 - 🔨 I just finished up work as a SWE Intern at The Home Depot!
 - 🔭 I’m also currently...
-    - Building Bunker, a simple and easy-to-use passport manager application (Beta version coming soon!)
+    - Touching up Bunker, a simple and easy-to-use passport manager application.
     - Using Machine Learning to identify bird calls for <a href="https://www.kaggle.com/competitions/birdclef-2022" target="_blank">BirdCLEF</a> (Getting ready for BirdClef 2023!)
     - Learning lots from my fantastic professors and mentors here at GT!
     - Looking for Summer 2023 internships 😄
