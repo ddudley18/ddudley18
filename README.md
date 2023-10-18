@@ -1,7 +1,7 @@
 <!--- A little bit about me --->
 
 # 👋 Howdy!
-## I'm a senior at Georgia Tech interested in creative problems and innovative environments. Feel free to get in touch!
+## I'm a senior at Georgia Tech interested in creative problems. Feel free to get in touch!
 Note: Many of my repos are kept private, but I would be happy to chat more and demonstrate my work as needed.
 
 
